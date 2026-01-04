@@ -3,13 +3,13 @@ Monday,Espresso,25
 Monday,Latte,15
 Tuesday,Espresso,30
 Tuesday,Latte,20
-Wednesday,Espresso,35
-Wednesday,Latte,25
+Wednesday,Espresso,NaN
+Wednesday,Latte,NaN
 Thursday,Espresso,40
-Thursday,Latte,30
+Thursday,Latte,NaN
 Friday,Espresso,45
 Friday,Latte,35
-Saturday,Espresso,45
+Saturday,Espresso,NaN
 Saturday,Latte,35
 Sunday,Espresso,45
 Sunday,Latte,35
