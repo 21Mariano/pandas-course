@@ -1,0 +1,22 @@
+Date,Day,Coffee Type,Size,Units Sold,Revenue,Cost,Profit,Store Location,Payment Method,Customer Type,Promotion Applied,Temperature C
+2025-01-06,Monday,Espresso,Small,25,75.00,25.00,50.00,Downtown,Credit Card,Regular,No,22
+2025-01-06,Monday,Latte,Medium,15,67.50,30.00,37.50,Downtown,Cash,Regular,Yes,22
+2025-01-06,Monday,Cappuccino,Medium,18,81.00,36.00,45.00,Downtown,Debit Card,New,No,22
+2025-01-07,Tuesday,Espresso,Small,30,90.00,30.00,60.00,Downtown,Credit Card,Regular,No,24
+2025-01-07,Tuesday,Latte,Large,20,110.00,45.00,65.00,Downtown,Credit Card,Regular,Yes,24
+2025-01-07,Tuesday,Americano,Medium,22,77.00,33.00,44.00,Downtown,Cash,New,No,24
+2025-01-08,Wednesday,Espresso,Small,NaN,NaN,NaN,NaN,Downtown,Credit Card,Regular,No,21
+2025-01-08,Wednesday,Latte,Medium,NaN,NaN,NaN,NaN,Downtown,Debit Card,Regular,No,21
+2025-01-08,Wednesday,Mocha,Large,12,78.00,40.00,38.00,Downtown,Credit Card,New,Yes,21
+2025-01-09,Thursday,Espresso,Small,40,120.00,40.00,80.00,Suburb,Credit Card,Regular,No,26
+2025-01-09,Thursday,Latte,Medium,NaN,NaN,NaN,NaN,Suburb,Cash,Regular,No,26
+2025-01-09,Thursday,Flat White,Medium,20,90.00,38.00,52.00,Suburb,Debit Card,New,Yes,26
+2025-01-10,Friday,Espresso,Small,45,135.00,45.00,90.00,Suburb,Credit Card,Regular,No,28
+2025-01-10,Friday,Latte,Large,35,192.50,80.00,112.50,Suburb,Credit Card,Regular,Yes,28
+2025-01-10,Friday,Mocha,Large,30,195.00,90.00,105.00,Suburb,Cash,New,Yes,28
+2025-01-11,Saturday,Espresso,Small,NaN,NaN,NaN,NaN,Mall,Credit Card,Regular,No,30
+2025-01-11,Saturday,Latte,Large,35,192.50,80.00,112.50,Mall,Debit Card,Regular,Yes,30
+2025-01-11,Saturday,Cold Brew,Large,28,168.00,70.00,98.00,Mall,Credit Card,New,Yes,30
+2025-01-12,Sunday,Espresso,Small,45,135.00,45.00,90.00,Mall,Credit Card,Regular,No,27
+2025-01-12,Sunday,Latte,Medium,35,157.50,70.00,87.50,Mall,Cash,Regular,Yes,27
+2025-01-12,Sunday,Americano,Medium,32,112.00,48.00,64.00,Mall,Debit Card,New,No,27
