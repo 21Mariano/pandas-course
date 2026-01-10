@@ -1,1 +1,2 @@
+* -filter=lfs
 * !text !filter !merge !diff
